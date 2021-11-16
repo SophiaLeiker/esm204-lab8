@@ -1,0 +1,16 @@
+---
+title: "Lab 8"
+author: "Sophia Leiker"
+date: "11/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(modelsummary)
+library(broom)
+library(here)
+```
+
